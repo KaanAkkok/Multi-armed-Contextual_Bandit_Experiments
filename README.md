@@ -47,6 +47,7 @@ Simply run all the code cells in the notebook to execute the simulation and view
 
 ## Example Output
 The plots generated at the end of the simulation compare the performance of the different agents based on average reward and optimal action percentage.
+
 <img width="463" height="490" alt="resim" src="https://github.com/user-attachments/assets/a95b37f2-2426-4cc0-8968-1fb39282d01b" />
 <img width="1189" height="490" alt="resim" src="https://github.com/user-attachments/assets/fcf17e0a-7c9e-45fb-9610-dec6c803be72" />
 <img width="1189" height="490" alt="resim" src="https://github.com/user-attachments/assets/db88e82f-7351-4c46-a0e5-8ce52df49e8a" />
